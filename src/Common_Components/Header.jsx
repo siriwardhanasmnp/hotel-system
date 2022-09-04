@@ -13,7 +13,7 @@ function Header()
                 <tr>
                 
                 <td><button className={HeaderStyles.headerBtn}>Logo</button></td>
-                <td style={{padding:'5vw 0vw 0vw 48vw'}}></td>
+                <td style={{padding:'5vw 0vw 0vw 40vw'}}></td>
                 <td><button className={HeaderStyles.headerBtn}>Home</button></td>
                 <td><button className={HeaderStyles.headerBtn}>ContactUs</button></td>
                 <td><button className={HeaderStyles.headerBtn}>My Profile</button></td>
