@@ -26,9 +26,11 @@ tr {
     vertical-align: bottom;
     text-align: left;
     align-items: left;
+
   }
 
-  .NavBarStyles.box
-  {
-    align-items: left;
+ 
+
+  table{
+    float: left;
   }
