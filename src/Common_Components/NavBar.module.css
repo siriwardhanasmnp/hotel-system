@@ -18,3 +18,10 @@
     color: black;
 }
 
+tr {
+    height: 50px;
+    vertical-align: bottom;
+    text-align: left;
+    align-items: baseline;
+  }
+
