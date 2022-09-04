@@ -14,12 +14,12 @@ function NavBar()
         <>
             <div className={NavBarStyles.box}>
                 <table>
-                    <tr><button className={NavBarStyles.navBtn}><img src={food} width="30" height="30"/>Foods</button></tr>
-                    <tr><button className={NavBarStyles.navBtn}><img src={room} width="30" height="30"/>Rooms</button></tr>
-                    <tr><button className={NavBarStyles.navBtn}><img src={addRooom} width="30" height="30"/>Room Bookings</button></tr>
-                    <tr><button className={NavBarStyles.navBtn}><img src={employee} width="30" height="30"/>Employees</button></tr>
-                    <tr><button className={NavBarStyles.navBtn}><img src={payment} width="30" height="30"/>Payments</button></tr>
-                    <tr><button className={NavBarStyles.navBtn}><img src={customer} width="30" height="30"/>Customers</button></tr>
+                    <tr><td><button className={NavBarStyles.navBtn}><img src={food} width="30" height="30"/>Foods</button></td></tr>
+                    <tr><td><button className={NavBarStyles.navBtn}><img src={room} width="30" height="30"/>Rooms</button></td></tr>
+                    <tr><td><button className={NavBarStyles.navBtn}><img src={addRooom} width="30" height="30"/>Rooms Bookings      </button></td></tr>
+                    <tr><td><button className={NavBarStyles.navBtn}><img src={employee} width="30" height="30"/>Employees</button></td></tr>
+                    <tr><td><button className={NavBarStyles.navBtn}><img src={payment} width="30" height="30"/>Payments</button></td></tr>
+                    <tr><td><button className={NavBarStyles.navBtn}><img src={customer} width="30" height="30"/>Customers</button></td></tr>
                 </table>
             </div>
         </>

@@ -21,16 +21,16 @@
 
 }
 
-tr {
+/* tr {
     height: 5vw;
+    width: 150vw;
     vertical-align: bottom;
-    text-align: left;
-    align-items: left;
+  } */
 
-  }
+  /* td {
+    height: 50px;
+    width: 100;
+    vertical-align: left;
+  } */
 
- 
 
-  table{
-    float: left;
-  }
