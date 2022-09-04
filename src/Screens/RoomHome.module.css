@@ -7,3 +7,10 @@
     background-color: rgb(223, 219, 213);
     margin: 1vw;
 }
+
+.form{
+    height: 50vw;
+    width:60vw;
+    border-radius: 1vw;
+    background-color: rgb(229, 238, 247);
+}
