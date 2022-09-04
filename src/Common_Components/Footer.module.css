@@ -1,0 +1,12 @@
+.footerBox{
+    height: 20%;
+    width: 100%;
+    top:80%;
+    background-color: rgb(6, 46, 13);
+    position: fixed;
+}
+
+.footerContent{
+    padding: 1vw 0vw 0vw 10vw 
+}
+
