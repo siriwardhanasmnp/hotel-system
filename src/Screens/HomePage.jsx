@@ -4,6 +4,7 @@ import HomePageStyles from './HomePage.module.css';
 
 import NavBar from '../Common_Components/NavBar'
 import Header from '../Common_Components/Header'
+import Footer from '../Common_Components/Footer'
 
 function HomePage()
 {
@@ -12,6 +13,7 @@ function HomePage()
         <div className={HomePageStyles.screen}>
             <Header/>
             <NavBar/>
+            <Footer/>
         </div>
         </>
     );
